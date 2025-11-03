@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "974845475666",
+    "project_id": "wordquiz-8ca30",
+    "storage_bucket": "wordquiz-8ca30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845475666:android:828d04266e34b10e25d88b",
+        "android_client_info": {
+          "package_name": "com.example.new_word"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzC3iTS5XJUy04cuoSprs5Rw792UrkO34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845475666:android:9984fd71041d5c6025d88b",
+        "android_client_info": {
+          "package_name": "com.example.word"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzC3iTS5XJUy04cuoSprs5Rw792UrkO34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974845475666:android:ce169aa55e8b5fd525d88b",
+        "android_client_info": {
+          "package_name": "com.shubhamkarwal.wordora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzC3iTS5XJUy04cuoSprs5Rw792UrkO34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
